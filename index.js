@@ -117,10 +117,10 @@ Baby.prototype.play = function(){
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Window Binding, something we shouldnt use.
+  2. Implicit Binding, most common, left of the dot
+  3. Explicit Binding, immediately invokes the functions
+  4. New Binding constructs a new object for "this"
 */
 
 
